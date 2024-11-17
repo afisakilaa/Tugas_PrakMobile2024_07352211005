@@ -1,0 +1,1 @@
+enum Peran { Developer, NetworkEngineer, Manager }
